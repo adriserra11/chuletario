@@ -11,9 +11,7 @@
 
 ## Movimiento
 - Izquierda, abajo, arriba, derecha
-    > h, j, k, l
-    o
-    > flechas
+    > h, j, k, l  /  flechas
 
 - Inicio de siguiente palabra (con/sin puntuación)
     > w / W
@@ -68,9 +66,7 @@
 
 ## Movimiento en Modo Insertar
 - Izquierda, abajo, arriba, derecha
-    > Alt+h, Alt+j, Alt+k, Alt+l
-    o
-    > flechas
+    > Alt+h, Alt+j, Alt+k, Alt+l  /  flechas
 
 - Inicio/fin linea
     > Alt+0 (cero) / Alt+A (mayus)
